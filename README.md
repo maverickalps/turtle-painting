@@ -18,3 +18,5 @@ Python 3.x (no external libraries required)
 🖌️ Preview
 screenshot of the output here!
 ![image](https://github.com/user-attachments/assets/9acd313d-e220-42d9-bf36-f71774f45446)
+ updated code output
+ ![image](https://github.com/user-attachments/assets/3015c7a8-ca05-42cf-a15d-9064bccd4f2a)
